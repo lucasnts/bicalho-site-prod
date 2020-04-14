@@ -1,0 +1,19 @@
+{
+  "name": "bicalho-site-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnts/bicalho-site-prod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnts/bicalho-site-prod/issues"
+  },
+  "homepage": "https://github.com/lucasnts/bicalho-site-prod#readme"
+}
